@@ -1,0 +1,11 @@
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\bin\Debug\ATMSimulator.exe.config
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\bin\Debug\ATMSimulator.exe
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\bin\Debug\ATMSimulator.pdb
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\obj\Debug\ATMSimulator.csproj.AssemblyReference.cache
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\obj\Debug\ATMSimulator.Properties.Resources.resources
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\obj\Debug\ATMSimulator.csproj.GenerateResource.cache
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\obj\Debug\ATMSimulator.csproj.CoreCompileInputs.cache
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\obj\Debug\ATMSimulator.exe
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\obj\Debug\ATMSimulator.pdb
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\obj\Debug\ATMSimulator.MainForm.resources
+D:\GoogleDriveFiles\Projects\VisualStudio\ATMSumulator\ATMSimulator\obj\Debug\ATMSimulator.App.ui.StartSettingsDialog.resources
